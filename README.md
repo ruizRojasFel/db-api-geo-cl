@@ -72,7 +72,8 @@ psql -U [DB_USER] -d [DB_NAME] -f 04_seed.sql
 
 ## Developer
 
-**Felipe Andrés Ruiz Rojas**
+### **Felipe Andrés Ruiz Rojas**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-felandres-blue?logo=linkedin)](https://www.linkedin.com/in/felandres)
 [![Website](https://img.shields.io/badge/Website-%40felruiz--dev-lightblue)](https://felruiz-dev.vercel.app/)
 
@@ -84,4 +85,4 @@ psql -U [DB_USER] -d [DB_NAME] -f 04_seed.sql
 
 ---
 
-Copyright © 2026 Felipe Andrés Ruiz Rojas.
+Copyright © 2026 Felipe Andrés Ruiz Rojas. All rights reserved.
