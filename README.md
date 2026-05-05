@@ -85,4 +85,4 @@ psql -U [DB_USER] -d [DB_NAME] -f 04_seed.sql
 
 ---
 
-Copyright © 2026 Felipe Andrés Ruiz Rojas. All rights reserved.
+Copyright © 2026 Felipe Andrés Ruiz Rojas.
